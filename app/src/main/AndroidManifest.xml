@@ -12,7 +12,7 @@
         android:theme="@style/Theme.RockPaperScissorsJava"
         tools:targetApi="31">
         <activity
-            android:name=".homeActivty"
+            android:name=".PlayActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
